@@ -5,7 +5,7 @@
 In this exercise, we'll take a look at our references (`refs`) and create some lightweight and annotated tags. Then we'll make a dangling commit from a "detached HEAD" state and learn why this isn't a great idea.
 
 ### Prerequisite
-You should have the [`advanced-git-exercises`](https://github.com/eliaatram/advanced-git-exercises) repository cloned locally. Checkout the `exercise3` branch to begin:
+You should have the [`advanced-git-exercises`](https://github.com/elia-epita/advanced-git-exercises) repository cloned locally. Checkout the `exercise3` branch to begin:
 
 ```
 $> git checkout exercise3
