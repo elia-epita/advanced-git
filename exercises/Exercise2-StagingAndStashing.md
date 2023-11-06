@@ -5,7 +5,7 @@
 In this exercise, we'll take a quick look at interactive staging, unstaging files, and stashing uncommitted changes.
 
 ### Prerequisite
-Clone the `advanced-git-exercises` repository from [github.com/eliaatram/advanced-git-exercises](https://github.com/eliaatram/advanced-git-exercises).
+Clone the `advanced-git-exercises` repository from [`advanced-git-exercises`](https://github.com/elia-epita/advanced-git-exercises).
 Then, checkout the `exercise2` tag to set things up for the following exercise.
 
 ```
